@@ -1,4 +1,4 @@
-# CURSO DE_GIT_ & _GITHUB
+# CURSO DE GIT & GITHUB
 
 Hola soy el lugui
-se agrego un cambio y ptro
+se agrego un cambio y es el final
