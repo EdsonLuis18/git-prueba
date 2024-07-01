@@ -1,4 +1,3 @@
 # CURSO DE GIT & GITHUB
 
-Hola soy el lugui
-se agrego un cambio y es el final
+Realizando pruebas en el github mediante git
